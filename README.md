@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Shreya Rai! 👋
 
-<!--
-**shreya06-codes/shreya06-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Information Technology undergraduate at Symbiosis University of Applied Sciences, Indore, interested in understanding how intelligent systems work and how we can make them more efficient, reliable, and useful in the real world.
 
-Here are some ideas to get you started:
+My journey into research began with exploring **adaptive CPU scheduling for heterogeneous multi-core systems**, which introduced me to the process of turning a computing problem into a research question.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since then, I've been exploring the intersection of **AI, computer systems, and responsible technology** through research, software projects, and hands-on experimentation.
+
+- 🔬 **Research:** Computer systems, adaptive scheduling, and AI-driven approaches to complex problems.
+- 💻 **Building:** Interactive applications, algorithmic solutions, and projects that connect theory with practice.
+- 🧠 **Exploring:** Machine learning, responsible AI, data-driven decision-making, and emerging computing paradigms.
+- 🌱 **Currently learning:** Strengthening my foundations in DSA, programming, and machine learning.
+- 🤝 **Open to:** Research collaborations, meaningful projects, and opportunities to learn from the developer and research community.
+
+I believe good engineering starts with asking better questions, testing ideas carefully, and being willing to learn from what doesn't work.
+
+✨ **Welcome to my corner of GitHub!** ✨
