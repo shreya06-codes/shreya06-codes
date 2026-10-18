@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,50:254E70,100:4FD1C5&height=200&section=header&text=Shreya%20Rai&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    width="100%"
+    alt="Shreya Rai — Research and Intelligent Systems"
+  />
+</p>
+
+<h3 align="center">
+  Computer Science Student | Research | AI & Systems
+</h3>
+
+<p align="center">
+  <i>Curious about systems. Driven to understand. Learning by building.</i>
+</p>
 ## Hey, I'm Shreya Rai! 👋
 
 I'm a Computer Science and Information Technology undergraduate at Symbiosis University of Applied Sciences, Indore, interested in understanding how intelligent systems work and how we can make them more efficient, reliable, and useful in the real world.
